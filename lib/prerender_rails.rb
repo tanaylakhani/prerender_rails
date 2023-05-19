@@ -49,7 +49,8 @@ module Rack
         'Google Page Speed',
         'Qwantify',
         'Chrome-Lighthouse',
-        'TelegramBot'
+        'TelegramBot',
+        'AhrefsBot'
       ]
 
       @extensions_to_ignore = [
